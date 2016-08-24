@@ -1,0 +1,2 @@
+# MagicCode
+A code site
